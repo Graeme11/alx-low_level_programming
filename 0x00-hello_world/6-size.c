@@ -2,10 +2,12 @@
 
 /**
 * main - Entry point
+*
 * Return: Always 0 (Success)
 */
 
 int main(void)
+
 {
         char acharacter;	
         int ainteger;
@@ -23,5 +25,6 @@ byte(s)\n", sizeof(along));
 byte(s)\n", sizeof(alonglong));
 	printf("Size of a float: %lu 
 byte(s)\n", sizeof(afloat));
-	return (0);
+	
+        return (0);
 }
