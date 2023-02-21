@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - checks letter
- * @c: caracter recibo por main.
+ * @c: character receipt by main.
  * Return: 1 if c is lowercase
  */
 int _isalpha(int c)
