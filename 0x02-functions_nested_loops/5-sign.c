@@ -2,7 +2,7 @@
 
 /**
  * print_sign - checks number
- * @n: entero recibo por main.
+ * @n: enter receipt by main
  * Return: 1 if c is lowercase
  */
 int print_sign(int n)
