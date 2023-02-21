@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * add - Add two integers by function.
- * @i: First integer varable to add.
- * @l: Second variable to add.
- * return: return with summation
+ * add - add two integer
+ * @i: The first integer to be added
+ * @l: The Second integer to be added
+ * return: the sum of the two 
  */
 int add(int i, int l)
 {
