@@ -2,8 +2,8 @@
 
 /**
  * print_last_digit - checks number
- * @j: entero recibo por main.
- * Return: Devuelve r cuando es valor absoluto positivo,
+ * @j: variable receipt by main.
+ * Return: Returns r when it is a positive absolute value
  */
 int print_last_digit(int j)
 {
