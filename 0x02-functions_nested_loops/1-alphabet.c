@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* print_alphabet - llamar la funcion desde el main
+* print_alphabet - call the function from main
 */
 void print_alphabet(void)
 {
