@@ -2,8 +2,8 @@
 
 /**
  * _abs - checks number
- * @r: entero recibo por main.
- * Return: Devuelve r cuando es valor absoluto positivo,
+ * @r: variable receipt by main
+ * Return: Returns r when it is a positive absolute value
  */
 int _abs(int r)
 {
