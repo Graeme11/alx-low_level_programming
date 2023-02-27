@@ -2,7 +2,7 @@
 
 /**
  * puts2 - main function.
- * @str: Pointer, the string to print.
+ * @str = "Holberton!
  *
  * Description: This function prints every other character of a string
  * (divisible by two)
